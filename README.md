@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lathasri Ravirala
 
-### ⚡ Data Analyst | AI Engineer | ML Engineer | Data Engineer | Data Scientist
+### 💡 Data Analyst | AI Engineer | ML Engineer | Data Engineer | Data Scientist
 
 **Building recruiter-ready AI products, analytics systems, and intelligent engineering solutions.**
 
