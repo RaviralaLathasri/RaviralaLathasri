@@ -13,10 +13,6 @@ I am a highly driven AI and data engineer focused on delivering polished, busine
 My engineering approach blends strong data foundations, clean architecture, and intuitive product experiences.
 
 ---
-
-## 🧠 Technical Skills
-
----
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
