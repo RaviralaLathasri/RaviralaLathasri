@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
 ---
 
-## 👨‍💼 About Me
+## 🙋‍♀️ About Me
 
 I am a highly driven AI and data engineer focused on delivering polished, business-ready solutions. I build products that bridge research-grade intelligence with real-world impact, including RAG systems, Power BI analytics, medical AI, and quantum-enhanced fintech.
 
