@@ -4,7 +4,7 @@
 
 **Building recruiter-ready AI products, analytics systems, and intelligent engineering solutions.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/lathasri-ravirala-06b606309) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?logo=google-chrome&logoColor=white)](./Portfolio.html) [![Email](https://img.shields.io/badge/Email-Send-red?logo=gmail&logoColor=white)](mailto:lathasriravirala2003@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/RaviralaLathasri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/lathasri-ravirala-06b606309) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?logo=google-chrome&logoColor=white)](./Portfolio.html) [![Email](https://img.shields.io/badge/Gmail-lathasriravirala2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lathasriravirala2003@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/RaviralaLathasri)
 
 ---
 
