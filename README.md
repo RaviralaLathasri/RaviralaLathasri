@@ -16,156 +16,54 @@ My engineering approach blends strong data foundations, clean architecture, and 
 
 ## 🧠 Technical Skills
 
-<style>
-.skills-section {
-  background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%);
-  padding: 30px;
-  border-radius: 12px;
-  margin: 20px 0;
-}
+---
+## 🛠️ Technical Skills
 
-.skill-category {
-  margin-bottom: 25px;
-}
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-.category-name {
-  font-size: 1.1rem;
-  font-weight: 700;
-  color: #ffffff;
-  margin-bottom: 12px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
+### 📚 Libraries & Frameworks
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-.skills-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 16px;
-}
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-.skill-badge {
-  display: inline-flex;
-  align-items: center;
-  padding: 8px 16px;
-  border-radius: 999px;
-  font-weight: 600;
-  font-size: 0.9rem;
-  color: white;
-  white-space: nowrap;
-  border: none;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
+### 📊 Data Analytics
+![EDA](https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-FF9800?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-2196F3?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-9C27B0?style=for-the-badge)
 
-.badge-python { background: linear-gradient(135deg, #3670A0, #2a5a8c); }
-.badge-sql { background: linear-gradient(135deg, #336791, #1e3f5a); }
-.badge-numpy { background: linear-gradient(135deg, #013243, #0d5c7a); }
-.badge-pandas { background: linear-gradient(135deg, #150458, #2a0d80); }
-.badge-matplotlib { background: linear-gradient(135deg, #11557c, #0a3d5a); }
-.badge-fastapi { background: linear-gradient(135deg, #009688, #00796b); }
-.badge-mysql { background: linear-gradient(135deg, #00758f, #004d63); }
-.badge-postgresql { background: linear-gradient(135deg, #336791, #1e3f5a); }
-.badge-eda { background: linear-gradient(135deg, #f39c12, #d68910); }
-.badge-stats { background: linear-gradient(135deg, #e74c3c, #c0392b); }
-.badge-viz { background: linear-gradient(135deg, #27ae60, #1e8449); }
-.badge-cleaning { background: linear-gradient(135deg, #16a085, #117a65); }
-.badge-nlp { background: linear-gradient(135deg, #8e44ad, #6c3483); }
-.badge-ml { background: linear-gradient(135deg, #2980b9, #1a5276); }
-.badge-dl { background: linear-gradient(135deg, #c0392b, #922b21); }
-.badge-rag { background: linear-gradient(135deg, #d35400, #a04000); }
-.badge-etl { background: linear-gradient(135deg, #f39c12, #d68910); }
-.badge-crawl { background: linear-gradient(135deg, #e67e22, #ca6f1e); }
-.badge-schedule { background: linear-gradient(135deg, #c0392b, #922b21); }
-.badge-powerbi { background: linear-gradient(135deg, #ffd700, #ffb800); color: #000; }
-.badge-tableau { background: linear-gradient(135deg, #4a5568, #2d3748); }
-.badge-excel { background: linear-gradient(135deg, #217346, #0d5b3f); }
-.badge-git { background: linear-gradient(135deg, #f1502f, #d43f2b); }
-.badge-github { background: linear-gradient(135deg, #333, #1a1a1a); }
-.badge-jupyter { background: linear-gradient(135deg, #f37726, #d65e1f); }
-.badge-vscode { background: linear-gradient(135deg, #007acc, #005a9e); }
-.badge-docker { background: linear-gradient(135deg, #2496ed, #1d7db8); }
-</style>
+### 🤖 AI & Machine Learning
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2980B9?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-E74C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-16A085?style=for-the-badge)
 
-<div class="skills-section">
+### ⚙️ Data Engineering
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT_Pipelines-34495E?style=for-the-badge)
+![Data Crawling](https://img.shields.io/badge/Data_Crawling-2ECC71?style=for-the-badge)
+![Scheduling](https://img.shields.io/badge/Workflow_Scheduling-F39C12?style=for-the-badge)
 
-<div class="skill-category">
-<div class="category-name">💻 Programming Languages</div>
-<div class="skills-grid">
-  <span class="skill-badge badge-python">Python</span>
-  <span class="skill-badge badge-sql">SQL</span>
-</div>
-</div>
+### 📈 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<div class="skill-category">
-<div class="category-name">📚 Libraries & Frameworks</div>
-<div class="skills-grid">
-  <span class="skill-badge badge-numpy">NumPy</span>
-  <span class="skill-badge badge-pandas">Pandas</span>
-  <span class="skill-badge badge-matplotlib">Matplotlib</span>
-  <span class="skill-badge badge-fastapi">FastAPI</span>
-</div>
-</div>
+### 🛠️ Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div class="skill-category">
-<div class="category-name">🗄️ Databases</div>
-<div class="skills-grid">
-  <span class="skill-badge badge-mysql">MySQL</span>
-  <span class="skill-badge badge-postgresql">PostgreSQL</span>
-</div>
-</div>
 
-<div class="skill-category">
-<div class="category-name">📊 Data Analytics</div>
-<div class="skills-grid">
-  <span class="skill-badge badge-eda">EDA</span>
-  <span class="skill-badge badge-stats">Statistical Analysis</span>
-  <span class="skill-badge badge-viz">Data Visualization</span>
-  <span class="skill-badge badge-cleaning">Data Cleaning</span>
-</div>
-</div>
 
-<div class="skill-category">
-<div class="category-name">🤖 AI & Machine Learning</div>
-<div class="skills-grid">
-  <span class="skill-badge badge-nlp">NLP</span>
-  <span class="skill-badge badge-ml">Machine Learning</span>
-  <span class="skill-badge badge-dl">Deep Learning</span>
-  <span class="skill-badge badge-rag">RAG</span>
-</div>
-</div>
-
-<div class="skill-category">
-<div class="category-name">⚡ Data Engineering</div>
-<div class="skills-grid">
-  <span class="skill-badge badge-etl">ETL/ELT Pipelines</span>
-  <span class="skill-badge badge-crawl">Data Crawling</span>
-  <span class="skill-badge badge-schedule">Workflow Scheduling</span>
-</div>
-</div>
-
-<div class="skill-category">
-<div class="category-name">📈 Business Intelligence & Visualization</div>
-<div class="skills-grid">
-  <span class="skill-badge badge-powerbi">Power BI</span>
-  <span class="skill-badge badge-tableau">Tableau</span>
-  <span class="skill-badge badge-excel">Microsoft Excel</span>
-</div>
-</div>
-
-<div class="skill-category">
-<div class="category-name">🛠️ Developer Tools & Platforms</div>
-<div class="skills-grid">
-  <span class="skill-badge badge-git">Git</span>
-  <span class="skill-badge badge-github">GitHub</span>
-  <span class="skill-badge badge-jupyter">Jupyter Notebook</span>
-  <span class="skill-badge badge-vscode">VS Code</span>
-  <span class="skill-badge badge-docker">Docker</span>
-</div>
-</div>
-
-</div>
 
 ---
 
