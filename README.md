@@ -90,8 +90,7 @@ Developed a CNN-based medical imaging classifier with image preprocessing and a 
 
 - Published research in **ISJEM** and **IJCRT**.
 - Certified in **Data Analyst** and **Data Science** from DataCamp.
-- Earned **Python** certification from NPTEL and **AI** badge from IBM Credly.
-- Completed **Data Engineer** certification on Manara.
+- Earned **Python** certification from NPTEL.
 
 ---
 
