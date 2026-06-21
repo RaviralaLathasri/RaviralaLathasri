@@ -14,23 +14,50 @@ My engineering approach blends strong data foundations, clean architecture, and 
 
 ---
 
-## 🧠 Technical Arsenal
+## 🧠 Technical Skills
 
-### Languages & Databases
+### Programming Languages
+- Python
+- SQL
 
-[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-00519A?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![DuckDB](https://img.shields.io/badge/DuckDB-090?logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PC9zdmc+)](#) [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+### Libraries & Frameworks
+- NumPy
+- Pandas
+- Matplotlib
+- FastAPI
 
-### Data Engineering & Architecture
+### Databases
+- MySQL
+- PostgreSQL
 
-[![ETL](https://img.shields.io/badge/ETL-Pipelines-blue?logo=airbyte&logoColor=white)](#) [![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-darkblue?logo=dbt&logoColor=white)](#) [![Dimensional Modeling](https://img.shields.io/badge/Dimensional%20Modeling-purple?logo=tableau&logoColor=white)](#)
+### Data Analytics
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization
+- Data Cleaning & Preprocessing
 
-### Orchestration, Tools & Cloud
+### Artificial Intelligence & Machine Learning
+- Natural Language Processing (NLP)
+- Machine Learning
+- Deep Learning
+- Retrieval-Augmented Generation (RAG)
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+### Data Engineering
+- ETL/ELT Pipelines
+- Data Crawling
+- Workflow Scheduling
 
-### Analytics & AI
+### Business Intelligence & Visualization
+- Power BI
+- Tableau
+- Microsoft Excel
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)](#) [![Tableau](https://img.shields.io/badge/Tableau-444F9D?logo=tableau&logoColor=white)](#) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](#) [![Qiskit](https://img.shields.io/badge/Qiskit-742B91?logo=ibm&logoColor=white)](#)
+### Developer Tools & Platforms
+- Git
+- GitHub
+- Jupyter Notebook
+- Visual Studio Code (VS Code)
+- Docker
 
 ---
 
