@@ -92,3 +92,4 @@ Developed a CNN-based medical imaging classifier with image preprocessing and a 
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/lathasri-ravirala-06b606309) [![Email](https://img.shields.io/badge/Email-Send-red?logo=gmail&logoColor=white)](mailto:lathasriravirala2003@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/RaviralaLathasri)
+
